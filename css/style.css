@@ -1,0 +1,22 @@
+body{
+    font: 20px Arial,sans-serif;
+}
+.navbar {
+    background-color: #424242;
+}
+.quem-somos{
+    background-color: #B45F04;
+    color: white;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top:10px;
+}
+
+.produtos{
+    background-color:#424242;
+    color: white;
+}
+.bg-footer{
+    background-color:#424242;
+}
